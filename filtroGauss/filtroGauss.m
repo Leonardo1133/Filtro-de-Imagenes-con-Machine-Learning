@@ -49,7 +49,7 @@ in_red  = ImVector(im_ruido);
 out_red = net(in_red);                           
 
 % Se transforma vector-fila 1x64k a imagen 254x254
-im_output   = reshape(out_red,[254,254]);            %transforma la salida de RNA (vector fila) en imagen de 254x254
+im_output   = reshape(out_red,[254,254]);           
 im_output_t = transpose(im_output);  
 
 % Calculo de la relacion Señal-Ruido de la imagen con ruido original
