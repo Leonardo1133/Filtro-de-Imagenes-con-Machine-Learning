@@ -1,3 +1,8 @@
+% Autor: Leonardo Oscar Dávila 
+% Ingeniero Electrónico | Data Scientist
+% leonardo.davila1133@gmail.com
+% linkedin: https://www.linkedin.com/in/tecnologia11
+
 clc, clear all, close all 
 
 % Preparando la imagen
