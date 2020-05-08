@@ -1,3 +1,9 @@
+% Autor: Leonardo Oscar Dávila 
+% Ingeniero Electrónico | Data Scientist
+% leonardo.davila1133@gmail.com
+% linkedin: https://www.linkedin.com/in/tecnologia11
+
+
 % Transforma imagen 255x255 a matriz 9x64k para entrada a la red
 function[in_rna] = ImVector(im_ruido)
 a = 0;
